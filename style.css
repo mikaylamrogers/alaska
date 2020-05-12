@@ -1,0 +1,40 @@
+body {
+  box-sizing: border-box;
+}
+
+a:link, a:active, a:after, a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+}
+
+iframe {
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+  width: 20vh;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  font-weight: normal;
+  padding: 35vh;
+  font-family: 'DM Sans', sans-serif;
+  line-height: 6vh;
+  text-align: center;
+}
+
+p {
+  font-family: 'DM Sans', sans-serif;
+  text-align: center;
+  font-size: 2vh;
+}
