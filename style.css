@@ -1,6 +1,19 @@
 body {
   box-sizing: border-box;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 4vh;
 }
+
+.wrap {
+  color: white;
+}
+
+/* .wrap2 {
+  color: white;
+  writing-mode: vertical-rl;
+  text-align: center;
+  position: absolute;
+} */
 
 a:link, a:active, a:after, a:visited {
   color: black;
