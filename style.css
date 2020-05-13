@@ -6,14 +6,8 @@ body {
 
 .wrap {
   color: white;
+  font-size: 4vh;
 }
-
-/* .wrap2 {
-  color: white;
-  writing-mode: vertical-rl;
-  text-align: center;
-  position: absolute;
-} */
 
 a:link, a:active, a:after, a:visited {
   color: black;
